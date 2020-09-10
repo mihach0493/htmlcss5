@@ -18,10 +18,18 @@ color:rgb(158, 158, 45);
 h3{
     color:#3d0505
 }
-/* Zalozone selektory */
-li-item1{
-    color:red;
+span.red{
+    color: red;
 }
-#li.item2{
-    color:blue;
+span.blue{
+    color: blue;
+}
+span.green{
+    color: greenyellow;
+}
+span.yellow{
+    color: yellowgreen;
+}
+span.purple{
+    color: purple;
 }
